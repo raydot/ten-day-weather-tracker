@@ -3,9 +3,36 @@
   "version": "2.0.2",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
   },
-  "keywords": [],
+   "devDependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "keywords": [
+  "weather",
+  "forecast",
+  "tracking",
+  "accuracy",
+  "automation",
+  "mongodb",
+  "nodejs",
+  "react",
+  "dashboard",
+  "analytics",
+  "national-weather-service",
+  "cron",
+  "launchd",
+  "macos",
+  "notifications",
+  "data-collection",
+  "visualization",
+  "charts",
+  "meteorology",
+  "climate"
+],
   "author": "Dave Kanter",
   "license": "Unlicense",
   "description": "Ten Day Weather Forecast Tracker"
