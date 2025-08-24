@@ -1,0 +1,128 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App {
+  width: 100%;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.dashboard h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.unit-toggle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  gap: 8px;
+}
+
+.toggle-caption {
+  font-size: 0.875rem;
+  color: #666;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.unit-toggle-wrapper {
+  position: relative;
+  display: flex;
+  background: white;
+  border-radius: 24px;
+  padding: 4px;
+  width: 120px;
+  height: 40px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border: 1px solid #e0e0e0;
+}
+
+.unit-toggle-slider {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: calc(50% - 4px);
+  height: calc(100% - 8px);
+  background: #f0f0f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1;
+}
+
+.unit-toggle-option {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
+  color: #888;
+  transition: color 0.3s ease;
+  font-weight: 600;
+  z-index: 2;
+}
+
+.unit-toggle-option.active {
+  color: #444;
+}
+
+.unit-toggle-option:hover:not(.active) {
+  color: #666;
+}
+
+.unit-toggle-option:focus {
+  outline: none;
+}
+
+.unit-toggle-option:focus-visible {
+  box-shadow: 0 0 0 2px #646cff;
+  border-radius: 20px;
+}
+
+.city-chart h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: -12px;
+  line-height: 1.2;
+}
+
+.charts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.city-chart {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.city-chart h2 {
+  text-align: center;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .charts-container {
+    grid-template-columns: 1fr;
+  }
+}

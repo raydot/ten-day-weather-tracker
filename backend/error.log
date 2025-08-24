@@ -1,0 +1,770 @@
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:9
+const fs = require('fs').promises;
+      ^
+
+SyntaxError: Identifier 'fs' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1655:18)
+    at Module._compile (node:internal/modules/cjs/loader:1697:20)
+    at Object..js (node:internal/modules/cjs/loader:1888:10)
+    at Module.load (node:internal/modules/cjs/loader:1458:32)
+    at Function._load (node:internal/modules/cjs/loader:1275:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)
+    at Module.require (node:internal/modules/cjs/loader:1480:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/davekanter/Documents/Dave/tenday02/backend/src/server.js:5:19)
+
+Node.js v23.7.0
+Error saving missed notifications: TypeError: fs.writeFileSync is not a function
+    at SchedulerService.saveMissedNotifications (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:35:10)
+    at SchedulerService.addMissedNotification (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:46:10)
+    at SchedulerService.updateAllForecasts (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:129:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error saving missed notifications: TypeError: fs.writeFileSync is not a function
+    at SchedulerService.saveMissedNotifications (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:35:10)
+    at SchedulerService.addMissedNotification (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:46:10)
+    at SchedulerService.updateAllForecasts (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:129:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error saving missed notifications: TypeError: fs.writeFileSync is not a function
+    at SchedulerService.saveMissedNotifications (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:35:10)
+    at SchedulerService.addMissedNotification (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:46:10)
+    at SchedulerService.updateAllForecasts (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:129:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-16T18:21:46.900Z] [ALERT] Missed weather update at 2/16/2025, 8:21:46 AM. Last successful update was 2/15/2025, 8:21:46 PM (14 hours ago)
+[2025-02-16T18:23:12.585Z] [ALERT] Missed weather update at 2/16/2025, 8:23:12 AM. Last successful update was 2/15/2025, 8:23:12 PM (14 hours ago)
+[2025-02-16T18:28:09.410Z] [ALERT] Missed weather update at 2/16/2025, 8:28:09 AM. Last successful update was 2/15/2025, 8:28:09 PM (14 hours ago)
+[2025-02-16T18:28:34.973Z] [ALERT] Missed weather update at 2/16/2025, 8:28:34 AM. Last successful update was 2/15/2025, 8:28:34 PM (14 hours ago)
+[2025-02-16T18:29:40.883Z] [ALERT] Missed weather update at 2/16/2025, 8:29:40 AM. Last successful update was 2/15/2025, 8:29:40 PM (14 hours ago)
+[2025-02-16T18:30:05.690Z] [ALERT] Missed weather update at 2/16/2025, 8:30:05 AM. Last successful update was 2/15/2025, 8:30:05 PM (14 hours ago)
+Error fetching forecast for New York: AxiosError: read ECONNRESET
+    at AxiosError.from (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:877:14)
+    at RedirectableRequest.handleRequestError (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:3163:25)
+    at RedirectableRequest.emit (node:events:507:28)
+    at eventHandlers.<computed> (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/follow-redirects/index.js:49:24)
+    at ClientRequest.emit (node:events:507:28)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:507:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at Axios.request (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:4252:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WeatherService.getForecast (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/weather.service.js:27:24)
+    at async SchedulerService.updateAllForecasts (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:126:26) {
+  syscall: 'read',
+  code: 'ECONNRESET',
+  errno: -54,
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function [FormData]], Blob: [class Blob] },
+    validateStatus: [Function: validateStatus],
+    headers: Object [AxiosHeaders] {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': undefined,
+      'User-Agent': 'axios/1.7.9',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'get',
+    url: 'https://api.weather.gov/gridpoints/OKX/33,35/forecast',
+    data: undefined
+  },
+  request: <ref *1> Writable {
+    _events: {
+      close: undefined,
+      error: [Function: handleRequestError],
+      prefinish: undefined,
+      finish: undefined,
+      drain: undefined,
+      response: [Function: handleResponse],
+      socket: [Function: handleRequestSocket]
+    },
+    _writableState: WritableState {
+      highWaterMark: 65536,
+      length: 0,
+      corked: 0,
+      onwrite: [Function: bound onwrite],
+      writelen: 0,
+      bufferedIndex: 0,
+      pendingcb: 0,
+      [Symbol(kState)]: 17580812,
+      [Symbol(kBufferedValue)]: null
+    },
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'https:',
+      path: '/gridpoints/OKX/33,35/forecast',
+      method: 'GET',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      family: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'api.weather.gov',
+      port: '',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/gridpoints/OKX/33,35/forecast'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 0,
+    _requestBodyBuffers: [],
+    _eventsCount: 3,
+    _onNativeResponse: [Function (anonymous)],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      _header: 'GET /gridpoints/OKX/33,35/forecast HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'User-Agent: axios/1.7.9\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: api.weather.gov\r\n' +
+        'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/gridpoints/OKX/33,35/forecast',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: [Function: emitRequestTimeout],
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: true,
+      host: 'api.weather.gov',
+      protocol: 'https:',
+      _redirectable: [Circular *1],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kChunkedBuffer)]: [],
+      [Symbol(kChunkedLength)]: 0,
+      [Symbol(kSocket)]: [TLSSocket],
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 65536,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _currentUrl: 'https://api.weather.gov/gridpoints/OKX/33,35/forecast',
+    [Symbol(shapeMode)]: true,
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:216:20) {
+    errno: -54,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+}
+[2025-03-17T01:19:30.542Z] Error updating forecasts: AxiosError: read ECONNRESET
+    at AxiosError.from (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:877:14)
+    at RedirectableRequest.handleRequestError (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:3163:25)
+    at RedirectableRequest.emit (node:events:507:28)
+    at eventHandlers.<computed> (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/follow-redirects/index.js:49:24)
+    at ClientRequest.emit (node:events:507:28)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:507:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at Axios.request (/Users/davekanter/Documents/Dave/tenday02/backend/node_modules/axios/dist/node/axios.cjs:4252:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WeatherService.getForecast (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/weather.service.js:27:24)
+    at async SchedulerService.updateAllForecasts (/Users/davekanter/Documents/Dave/tenday02/backend/src/services/scheduler.service.js:126:26) {
+  syscall: 'read',
+  code: 'ECONNRESET',
+  errno: -54,
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function [FormData]], Blob: [class Blob] },
+    validateStatus: [Function: validateStatus],
+    headers: Object [AxiosHeaders] {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': undefined,
+      'User-Agent': 'axios/1.7.9',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'get',
+    url: 'https://api.weather.gov/gridpoints/OKX/33,35/forecast',
+    data: undefined
+  },
+  request: <ref *1> Writable {
+    _events: {
+      close: undefined,
+      error: [Function: handleRequestError],
+      prefinish: undefined,
+      finish: undefined,
+      drain: undefined,
+      response: [Function: handleResponse],
+      socket: [Function: handleRequestSocket]
+    },
+    _writableState: WritableState {
+      highWaterMark: 65536,
+      length: 0,
+      corked: 0,
+      onwrite: [Function: bound onwrite],
+      writelen: 0,
+      bufferedIndex: 0,
+      pendingcb: 0,
+      [Symbol(kState)]: 17580812,
+      [Symbol(kBufferedValue)]: null
+    },
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'https:',
+      path: '/gridpoints/OKX/33,35/forecast',
+      method: 'GET',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      family: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'api.weather.gov',
+      port: '',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/gridpoints/OKX/33,35/forecast'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 0,
+    _requestBodyBuffers: [],
+    _eventsCount: 3,
+    _onNativeResponse: [Function (anonymous)],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      _header: 'GET /gridpoints/OKX/33,35/forecast HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'User-Agent: axios/1.7.9\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: api.weather.gov\r\n' +
+        'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/gridpoints/OKX/33,35/forecast',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: [Function: emitRequestTimeout],
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: true,
+      host: 'api.weather.gov',
+      protocol: 'https:',
+      _redirectable: [Circular *1],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kChunkedBuffer)]: [],
+      [Symbol(kChunkedLength)]: 0,
+      [Symbol(kSocket)]: [TLSSocket],
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 65536,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _currentUrl: 'https://api.weather.gov/gridpoints/OKX/33,35/forecast',
+    [Symbol(shapeMode)]: true,
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:216:20) {
+    errno: -54,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+}
+[2025-03-17T14:17:27.449Z] [ALERT] Missed weather update at 3/17/2025, 6:00:00 AM. Last successful update was 3/16/2025, 6:00:00 PM (13 hours ago)
+[2025-03-17T14:47:25.361Z] [ALERT] Missed weather update at 3/17/2025, 6:00:00 AM. Last successful update was 3/16/2025, 6:00:00 PM (14 hours ago)
+[2025-03-17T15:20:30.164Z] [ALERT] Missed weather update at 3/17/2025, 6:00:00 AM. Last successful update was 3/16/2025, 6:00:00 PM (14 hours ago)
