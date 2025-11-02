@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/raydot/ten-day-weather-tracker/compare/v1.0.1...v1.0.2) (2025-11-02)
+
+
+### Bug Fixes
+
+* make database schema idempotent with DROP TRIGGER IF EXISTS ([ebee44e](https://github.com/raydot/ten-day-weather-tracker/commit/ebee44ec7a0211a4b4656d0b5adee44c9021eebb))
+
 ## [1.0.1](https://github.com/raydot/ten-day-weather-tracker/compare/v1.0.0...v1.0.1) (2025-11-02)
 
 
