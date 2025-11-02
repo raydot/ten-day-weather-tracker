@@ -71,7 +71,7 @@ async function query(text, params) {
 
 // Get a client from the pool for transactions
 async function getClient() {
-  const client = await module.exports.pool.getClient();
+  const client = await pool.connect();
   const query = client.query;
   const release = client.release;
   
