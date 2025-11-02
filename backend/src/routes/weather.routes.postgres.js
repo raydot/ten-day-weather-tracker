@@ -1,6 +1,28 @@
 const express = require('express');
 const router = express.Router();
 const weatherService = require('../services/weather.service.postgres');
+const db = require('../db/postgres');
+
+// Get database stats
+router.get('/stats', async (req, res) => {
+  try {
+    const countResult = await db.query('SELECT COUNT(*) FROM forecasts');
+    const latestResult = await db.query(`
+      SELECT city, forecast_timestamp, temperature, created_at 
+      FROM forecasts 
+      ORDER BY created_at DESC 
+      LIMIT 10
+    `);
+    
+    res.json({
+      totalRecords: parseInt(countResult.rows[0].count),
+      latestForecasts: latestResult.rows
+    });
+  } catch (error) {
+    console.error('Error fetching stats:', error);
+    res.status(500).json({ error: error.message });
+  }
+});
 
 // Get recent forecasts for a city
 router.get('/:city/recent', async (req, res) => {
