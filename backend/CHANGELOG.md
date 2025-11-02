@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/raydot/ten-day-weather-tracker/compare/v1.0.2...v1.1.0) (2025-11-02)
+
+
+### Features
+
+* add /api/weather/stats endpoint to view database data ([d0784d4](https://github.com/raydot/ten-day-weather-tracker/commit/d0784d4f1c18fef03d7186391b064947f513afd3))
+* add /api/weather/stats endpoint to view database data ([cca90cd](https://github.com/raydot/ten-day-weather-tracker/commit/cca90cdea3c0787d5add96383f70bd6ccafb5b8c))
+
 ## [1.0.2](https://github.com/raydot/ten-day-weather-tracker/compare/v1.0.1...v1.0.2) (2025-11-02)
 
 
