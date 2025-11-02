@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/raydot/ten-day-weather-tracker/compare/v1.1.0...v1.1.1) (2025-11-02)
+
+
+### Bug Fixes
+
+* use pool.connect() instead of pool.getClient() ([e95e511](https://github.com/raydot/ten-day-weather-tracker/commit/e95e511105ea23392b3285a6682f05b10484bdcc))
+
 # [1.1.0](https://github.com/raydot/ten-day-weather-tracker/compare/v1.0.2...v1.1.0) (2025-11-02)
 
 
