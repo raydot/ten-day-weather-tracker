@@ -28,5 +28,6 @@ END;
 $$ language 'plpgsql';
 
 -- Create trigger to automatically update updated_at
+DROP TRIGGER IF EXISTS update_forecasts_updated_at ON forecasts;
 CREATE TRIGGER update_forecasts_updated_at BEFORE UPDATE ON forecasts
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
