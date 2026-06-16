@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/server.postgres.js",
     "dev": "nodemon src/server.postgres.js",
+    "start:omeo": "node src/server.omeo.js",
     "start:old": "node src/server.js",
     "test:db": "node test-connection.js",
     "release": "semantic-release"
