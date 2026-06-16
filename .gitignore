@@ -45,3 +45,6 @@ frontend/build/
 backend/node_modules/
 backend/output.log
 backend/error.log
+
+# Dave specific
+docs/
