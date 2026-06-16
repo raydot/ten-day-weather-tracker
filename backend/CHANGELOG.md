@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/raydot/ten-day-weather-tracker/compare/v1.1.1...v1.2.0) (2026-06-16)
+
+
+### Bug Fixes
+
+* deduplicate forecasts table and backfill actual temperatures ([e3ccd33](https://github.com/raydot/ten-day-weather-tracker/commit/e3ccd33b15838b2d0cac2651103ad31f31d5aab9))
+
+
+### Features
+
+* add Open-Meteo collection service for 12 cities ([4b1cd07](https://github.com/raydot/ten-day-weather-tracker/commit/4b1cd071afe340c8045a630d9ebb11234f179ec4))
+
 ## [1.1.1](https://github.com/raydot/ten-day-weather-tracker/compare/v1.1.0...v1.1.1) (2025-11-02)
 
 
