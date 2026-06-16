@@ -73,10 +73,10 @@ class WeatherService {
   async updateActualTemperature(city, timestamp, actualTemp) {
     try {
       const result = await db.query(
-        `UPDATE forecasts 
+        `UPDATE forecasts
          SET actual_temperature = $1,
-             accuracy = 100 - ABS(((temperature - $1) / $1) * 100)
-         WHERE city = $2 
+             error_degrees = ABS(temperature - $1)
+         WHERE city = $2
            AND forecast_timestamp = $3
            AND actual_temperature IS NULL
          RETURNING *`,
